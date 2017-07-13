@@ -1,4 +1,4 @@
-# RESTful API Example with Spring Boot, Spring Data REST One To Many Relationship and MySQL
+# RESTful API Example with Spring Boot, Spring Data REST Many To Many Relationship and MySQL
 
 ## Guide
 https://hellokoding.com/restful-api-example-with-spring-boot-spring-data-rest-and-mysql/
